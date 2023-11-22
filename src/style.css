@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Imported;
+    src: url(./static/Bohemefloral.ttf);
+
+}
+
+@font-face {
+    font-family: Import;
+    src: url(./static/Agency.ttf);
+
+}
+
+
+@font-face {
+    font-family: Impo;
+    src: url(./static/Bebas.ttf);
+
+}
+
+.Name{
+    font-family: Imported;
+    color: rgb(168, 157, 136);
+    font-size: 43px;
+    margin-bottom: 9px;
+    padding: 0px;
+}
+
+.nav{
+    font-family: Import;
+}
+
+.headpara,.headpara2{
+    font-family: Impo,sans-serif;
+    color: #77498fab;
+}
+
+.resumedown{
+    font-family: Impo;
+    font-size: 22px;
+    color: black;
+    padding: 5px;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+/* Below 1350px */
+
+@media (max-width: 84em){
+    .button{
+        position: absolute;
+        top: 10%;
+        left: 20%;
+        transform: translate(-top,-left);
+    }
+}
