@@ -1,12 +1,8 @@
 {
-  "homepage": "https://Tarunesh-Light.github.io/Portfolio_Website_ll",
   "name": "newportfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build"
   },
@@ -20,7 +16,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.19.0",
-    "react-scripts": "^3.4.4",
+    "react-scripts": "^5.0.2",
     "styled-components": "^6.1.1"
   },
   "browserslist": {
@@ -35,7 +31,6 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^6.1.0"
-  }
+  
+  "description": ""
 }
