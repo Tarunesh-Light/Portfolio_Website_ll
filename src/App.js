@@ -18,7 +18,7 @@ export default function App(){
     <AppStyled>
 
     <Routes>
-        <Route path="/home" element={<Header></Header>}>
+        <Route path="/" element={<Header></Header>}>
         </Route>
         <Route path="/about" element={<About></About>}>
         </Route>
