@@ -36,7 +36,7 @@ border-radius: 5px;
 }
 
 .fullcov:hover{
-        border-top: 8px solid green;
+        border-top: 8px solid #191D2B;
         transform: translateY(3px);
     }
 

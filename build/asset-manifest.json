@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43215ed8.css",
+    "main.js": "/static/js/main.baa8df92.js",
+    "static/media/Tarun_black_bgrnd.jpg": "/static/media/Tarun_black_bgrnd.9b18dc13e965b1d5ae36.jpg",
+    "static/media/Yoga.png": "/static/media/Yoga.18b3ad254be6008d9597.png",
+    "static/media/Bohemefloral.ttf": "/static/media/Bohemefloral.0345ab604f426031d363.ttf",
+    "static/media/Starbucks.png": "/static/media/Starbucks.f598e70fd92acd03f28b.png",
+    "static/media/Bebas.ttf": "/static/media/Bebas.c501e16fa3f0781f9d73.ttf",
+    "static/media/Agency.ttf": "/static/media/Agency.eaefe2f00eb5ad09946f.ttf",
+    "static/media/Stygian.png": "/static/media/Stygian.e2c2efefccad54577b01.png",
+    "static/media/Tarunesh_Thangaraju.jpg": "/static/media/Tarunesh_Thangaraju.d40fb30e1f2ffc3718db.jpg",
+    "static/media/PLC_Programming.jpg": "/static/media/PLC_Programming.f1898163c7fbb9331beb.jpg",
+    "static/media/Flyers.jpg": "/static/media/Flyers.b7da3b1a105b44a3652e.jpg",
+    "static/media/Semester_Rank_1.jpg": "/static/media/Semester_Rank_1.8c28239adc32d4541790.jpg",
+    "static/media/Hindi_Certificate.jpg": "/static/media/Hindi_Certificate.c39935596560303cd5fa.jpg",
+    "static/media/CodeIgniter.jpg": "/static/media/CodeIgniter.756ede6be2ab721a85f0.jpg",
+    "static/media/JavaScript.jpg": "/static/media/JavaScript.17b35e4d32ec0b740724.jpg",
+    "static/media/HTML_CSS.jpg": "/static/media/HTML_CSS.0bf77c54e1d217484845.jpg",
+    "static/media/icon_application_caching.svg": "/static/media/icon_application_caching.9ecfcffbceef1fcf21873b86ca288f72.svg",
+    "static/media/icon_Cloud_Paas.svg": "/static/media/icon_Cloud_Paas.a4bc1fd9bf6acd29e0f49df9b0277783.svg",
+    "static/media/icon_cloud.svg": "/static/media/icon_cloud.66565971800218237b71f8ab2869cde5.svg",
+    "index.html": "/index.html",
+    "main.43215ed8.css.map": "/static/css/main.43215ed8.css.map",
+    "main.baa8df92.js.map": "/static/js/main.baa8df92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43215ed8.css",
+    "static/js/main.baa8df92.js"
+  ]
+}
