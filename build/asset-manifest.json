@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.43215ed8.css",
-    "main.js": "/static/js/main.baa8df92.js",
+    "main.js": "/static/js/main.4e674cfe.js",
     "static/media/Tarun_black_bgrnd.jpg": "/static/media/Tarun_black_bgrnd.9b18dc13e965b1d5ae36.jpg",
     "static/media/Yoga.png": "/static/media/Yoga.18b3ad254be6008d9597.png",
     "static/media/Bohemefloral.ttf": "/static/media/Bohemefloral.0345ab604f426031d363.ttf",
@@ -22,10 +22,10 @@
     "static/media/icon_cloud.svg": "/static/media/icon_cloud.66565971800218237b71f8ab2869cde5.svg",
     "index.html": "/index.html",
     "main.43215ed8.css.map": "/static/css/main.43215ed8.css.map",
-    "main.baa8df92.js.map": "/static/js/main.baa8df92.js.map"
+    "main.4e674cfe.js.map": "/static/js/main.4e674cfe.js.map"
   },
   "entrypoints": [
     "static/css/main.43215ed8.css",
-    "static/js/main.baa8df92.js"
+    "static/js/main.4e674cfe.js"
   ]
 }
